@@ -17,3 +17,9 @@ This example is the basis for integrating the Utopia API into the Unity3D Engine
 Development was carried out on Unity version 2017.4.35f1
 
 On the [release page](https://github.com/Sagleft/utopia-unity-client/releases) is available build for Windows for testing.
+
+---
+
+![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)
+
+### :globe_with_meridians: [Telegram канал](https://t.me/+VIvd8j6xvm9iMzhi)
